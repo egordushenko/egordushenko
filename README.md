@@ -7,7 +7,7 @@ My work is focused on using LLMs as engineering tools to ship real products fast
 
 ## Selected Public Projects
 
-### [[Redmine AI Technical Planner](https://github.com/egordushenko/redmine-ai-technical-planner)](https://github.com/egordushenko/redmine-ai-technical-planner)
+### [Redmine AI Technical Planner](https://github.com/egordushenko/redmine-ai-technical-planner)
 
 AI automation tool for engineering teams.
 
@@ -26,7 +26,7 @@ It reads a Redmine issue, resolves the related Git repository, selects relevant 
 
 ---
 
-### [[CardBot](https://github.com/OzzY12345/CardBot)](https://github.com/egordushenko/CardBot)
+### [CardBot](https://github.com/egordushenko/CardBot)
 
 Telegram bot for generating marketplace product cards for Wildberries and Ozon sellers.
 
