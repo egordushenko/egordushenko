@@ -57,11 +57,11 @@ Website: [alterega.ru](https://alterega.ru)
 
 ## Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, Node.js
-**Backend / Data:** PostgreSQL, REST APIs, FastAPI / Fastify, Telegram Bot API
-**AI / LLM:** OpenRouter, DeepSeek, GPT / Claude, GPT Image, structured output, prompt engineering, LLM orchestration, AI automation
-**Infra:** Linux, Ubuntu, Nginx, Docker, GitHub Actions, VPS, systemd
-**Workflow:** Codex, Claude Code, MCP servers, agentic coding workflows
+- **Languages:** Python, TypeScript, JavaScript, Node.js
+- **Backend / Data:** PostgreSQL, REST APIs, FastAPI / Fastify, Telegram Bot API
+- **AI / LLM:** OpenRouter, DeepSeek, GPT / Claude, GPT Image, structured output, prompt engineering, LLM orchestration, AI automation
+- **Infra:** Linux, Ubuntu, Nginx, Docker, GitHub Actions, VPS, systemd
+- **Workflow:** Codex, Claude Code, MCP servers, agentic coding workflows
 
 ---
 
@@ -75,5 +75,5 @@ Website: [alterega.ru](https://alterega.ru)
 
 ## Links
 
-Website: [alterega.ru](https://alterega.ru)
-Telegram: [@alterega](https://t.me/alterega)
+- Website: [alterega.ru](https://alterega.ru)
+- Telegram: [@alterega](https://t.me/alterega)
