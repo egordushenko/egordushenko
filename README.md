@@ -13,6 +13,8 @@ Architecture showcase for a commercial ecosystem of video-editing tools for Adob
 
 Three product lines across five builds (AEGACut plugin and desktop, AEGAPanel, AEGA Sync for Premiere and After Effects), a central licensing service, payment pipeline, storefront, and Telegram-based delivery. Actively operated in production.
 
+Frontend case study: [Alterega Storefront](https://github.com/egordushenko/alterega-storefront) — public frontend-only showcase of the real commercial storefront, built with Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Three.js / React Three Fiber, and next-intl.
+
 **What it demonstrates:**
 
 * full-cycle commercial product engineering as a single operator
@@ -20,9 +22,10 @@ Three product lines across five builds (AEGACut plugin and desktop, AEGAPanel, A
 * Adobe CEP panel development with ExtendScript and Python sidecars
 * Electron desktop packaging on Windows
 * server-side payment confirmation pipeline (Robokassa) with Telegram and SMTP delivery
+* frontend storefront architecture: multilingual catalog, product modals, SEO, motion, and 3D hero scene
 * VPS operations: Nginx, systemd, PostgreSQL, GitHub Actions
 
-**Stack:** Node.js, Fastify, Next.js, React, TypeScript, Python, Electron, Adobe CEP, ExtendScript, PostgreSQL, ffmpeg, Linux VPS.
+**Stack:** Node.js, Fastify, Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Three.js, Python, Electron, Adobe CEP, ExtendScript, PostgreSQL, ffmpeg, Linux VPS.
 
 Website: [alterega.ru](https://alterega.ru)
 
