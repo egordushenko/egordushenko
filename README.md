@@ -50,6 +50,24 @@ It reads a Redmine issue, resolves the related Git repository, selects relevant 
 
 ---
 
+### [goload](https://github.com/egordushenko/goload)
+
+HTTP load-testing CLI with multi-step YAML scenarios — a systems-engineering piece in idiomatic Go.
+
+Benchmarks a single endpoint or drives a full virtual-user flow: login, extract a token from one response, chain it into the next request, and fan out parallel calls inside one session. Reports to terminal, JSON, and a standalone HTML page.
+
+**What it demonstrates:**
+
+* idiomatic Go and concurrency design (producer → worker pool → single-writer collector, no locks on the hot path)
+* `context.Context`-driven cancellation, duration limits, and RPS throttling
+* CLI engineering with Cobra and a focused internal-package architecture
+* a feature competitors lack: multi-step scenarios with response chaining and in-flow parallelism
+* race-enabled tests and cross-platform CI (Linux, macOS, Windows) with golangci-lint
+
+**Stack:** Go, Cobra, net/http, html/template, YAML, GitHub Actions.
+
+---
+
 ### [CardBot](https://github.com/egordushenko/CardBot)
 
 Telegram bot for generating marketplace product cards for Wildberries and Ozon sellers.
